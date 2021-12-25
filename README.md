@@ -6,5 +6,7 @@ Updated `2021-12-25`: Works and isn't detected by Malwarebytes nor Defender as f
 If you want to try it, you have to update the webhook url in `Webhook.cs`.
 ## Can it be extended to different types of malware?
 Yeah, but as it's made with Unity, it takes some extra effort to get certain functionality working.
+### Contact
+Discord: qqt#0001
 # Warning
 I take no responsibility for what you do with this, it's made for educational purposes only.
