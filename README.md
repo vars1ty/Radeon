@@ -2,6 +2,8 @@
 An undetected Discord Token Logger.
 ## Does it work?
 Updated `2021-12-25`: Works and isn't detected by Malwarebytes nor Defender as far as I can tell.
+
+If you want to try it, you have to update the webhook url in `Webhook.cs`.
 ## Can it be extended to different types of malware?
 Yeah, but as it's made with Unity, it takes some extra effort to get certain functionality working.
 # Warning
