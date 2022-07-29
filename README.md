@@ -1,5 +1,5 @@
 # Radeon
-An undetected Discord Token Logger.
+An ~~undetected~~ Discord Token Logger.
 ## Does it work?
 Updated `Jul 29, 2022`: Defender seems to have started detecting it, making it UD again shouldn't be too difficult though for any non-script kiddie.
 
